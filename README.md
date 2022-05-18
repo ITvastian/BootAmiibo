@@ -1,2 +1,0 @@
-# BootAmiibo
-Utilizando bootstrap 
